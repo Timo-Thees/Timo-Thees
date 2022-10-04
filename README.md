@@ -1,10 +1,27 @@
-# Hi! My name is Timo
+# Hi! Come on in.
 
-Web developer in training. 
+Nice of you to stop by. Get yourself a drink if you like. :tea: :coffee: :tropical_drink:
 
-![Pic unrelated](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95Bre6C9SxZ5xgqDPZsLOsUwK0K1-E4NASg&usqp=CAU)
 
-Why you should hire me:
-1. Nice guy
-2. Also handsome
-3. Good with cats
+My name is Timo. Currently I am learning Javascript, but I made a lot of different things before.
+
+
+Like game design. Hey, checkt these out, I may be biased beause I made them, but I think they are neat.
+
+
+![the Innsmouth Case](https://cdn.cloudflare.steamstatic.com/steam/apps/1231950/capsule_616x353.jpg?t=1657792016)   ![Plan B from Outer Space](https://cdn.cloudflare.steamstatic.com/steam/apps/1683620/header.jpg)
+
+
+Things I can do:
+1. Web development (working on it)
+2. Photoshop
+3. Blender
+4. Unity
+
+Things I will never do for you:
+1. Give you up
+2. Let you down
+3. Run around and desert you
+4. Make you cry
+5. Say goodbye
+6. Tell a lie and hurt you
